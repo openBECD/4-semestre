@@ -27,6 +27,9 @@ Este repositório tem o objetivo de reunir informações sobre a disciplina Infe
 
 
 ### Bibliotecas e códigos
+#### R
+- [Stan](https://mc-stan.org/)
+
 #### Python
 - [PyMC](https://github.com/pymc-devs/pymc)
 - [Statistical Rethinking (second edition) with Python and PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)
