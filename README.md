@@ -17,14 +17,18 @@ Este repositório tem o objetivo de reunir informações sobre a disciplina Infe
 ## Conteúdos auxiliares 
 
 ### Livros
-
+- [(Merlise Clyde et al, 2021) An Introduction to Bayesian Thinking.](https://statswithr.github.io/book/)
+- [(Kevin Ross, 2021) An Introduction to Bayesian Reasoning and Methods.](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)
+- [(Alícia A. Johnson et al, 2021) Bayes Rules! An Introduction to Applied Bayesian Modeling.](https://www.bayesrulesbook.com/index.html)
 
 ### Playlists e Cursos
 - [Aulas da disciplina de Inferência Bayesiana na ENCE pelo Gustavo Ferreira](https://www.youtube.com/watch?v=YKZ1euMRsbs&list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN&ab_channel=GustavoFerreira)
 - [Statistical Rethinking Winter 2019](https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&ab_channel=RichardMcElreath)
+- [Canal do professor Rafael Stern.](https://www.youtube.com/channel/UClae1KDba-gEk0a3J-5jMJw)
 
 ### Artigos
-
+- [Andrew Heiss. A guide to modeling proportions with Bayesian beta and zero-inflated beta regression models.](https://www.andrewheiss.com/blog/2021/11/08/beta-regression-guide/)
+- [(Daniel Fink, 1997) A Compendium of Conjugate Priors.](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf)
 
 ### Bibliotecas e códigos
 #### R
