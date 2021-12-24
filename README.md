@@ -27,7 +27,7 @@ Este repositório tem o objetivo de reunir informações sobre a disciplina Infe
 - [Canal do professor Rafael Stern.](https://www.youtube.com/channel/UClae1KDba-gEk0a3J-5jMJw)
 
 ### Artigos
-- [Andrew Heiss. A guide to modeling proportions with Bayesian beta and zero-inflated beta regression models.](https://www.andrewheiss.com/blog/2021/11/08/beta-regression-guide/)
+- [(Andrew Heiss, 2021) A guide to modeling proportions with Bayesian beta and zero-inflated beta regression models.](https://www.andrewheiss.com/blog/2021/11/08/beta-regression-guide/)
 - [(Daniel Fink, 1997) A Compendium of Conjugate Priors.](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf)
 
 ### Bibliotecas e códigos
